@@ -1,0 +1,5 @@
+module CArchive [system] {
+    header "include/shim.h"
+    link "archive"
+    export *
+}
