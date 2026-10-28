@@ -478,7 +478,7 @@ struct AboutSettingsView: View {
                 Spacer()
             }
 
-            Text("© 2026 Samuel. 仅供个人使用。")
+            Text("© 2026 Samuel · MIT License")
                 .font(.system(size: 9.5))
                 .foregroundStyle(.quaternary)
                 .padding(.top, 2)

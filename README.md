@@ -106,6 +106,8 @@ Sources/
 
 不联网、不收集数据、不请求通讯录/位置等权限。密码仅在用户勾选「记住密码」时写入 macOS 钥匙串。
 
----
+## License
 
-© 2026 Samuel. 仅供个人使用。底层解压由 macOS 自带的 libarchive（BSD 许可）完成。
+本项目采用 [MIT License](LICENSE)。
+
+底层解压由 macOS 自带的 libarchive（BSD 许可）完成；libarchive 不随本应用分发。
