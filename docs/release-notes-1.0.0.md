@@ -2,6 +2,8 @@
 
 原生 macOS 解压工具，基于 SwiftUI + 系统 libarchive，轻量、离线、无后台进程。
 
+License: MIT
+
 ## 安装
 
 下载 `unzippy-1.0.0.dmg`，把「轻解压.app」拖入 Applications。
@@ -34,5 +36,5 @@
 ## 校验
 
 ```text
-79914950748a1dde10ed19c9b96bbb9d795de38c36622f9e23eb56aaca0fef4a  unzippy-1.0.0.dmg
+3da1899334b7bc3d17f37983a739fbaa9382e622fb66b61981b0022322787872  unzippy-1.0.0.dmg
 ```
